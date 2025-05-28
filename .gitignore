@@ -4,3 +4,4 @@ __pycache__/
 *.keras
 *.log
 *.pyc
+.DS_Store
